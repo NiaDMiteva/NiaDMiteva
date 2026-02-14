@@ -14,7 +14,8 @@
 
 Hey, I’m **Nia**  
 I like to **mix math and magic** (aka code and creativity).  
-- 👩‍💻 Computer Science @ Sofia University  
+- 👩‍💻 2 years of Computer Science @ Sofia University
+- 💵 Now first year Economics and Finance @ Sofia University 
 - 🌱 Always learning, always building  
 - ✨ Crafting UIs that feel like home
 
